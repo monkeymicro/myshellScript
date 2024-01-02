@@ -4,4 +4,8 @@
 
 sudo apt update
 
-sudo apt install g++ gdb make ninja-build rsync zip git
+sudo apt install -y g++ gdb make ninja-build rsync zip git snap
+
+# snap install vscode
+sudo snap install code --classic
+
