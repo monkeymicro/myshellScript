@@ -1,0 +1,4 @@
+*.zip
+/Downloads
+/cmake_qt6_console_app/build
+/build
